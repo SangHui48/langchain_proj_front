@@ -165,3 +165,4 @@ data
 not_used/*
 config.json
 pages/test_page.py
+node_modules
